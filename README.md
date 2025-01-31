@@ -133,3 +133,18 @@ apt autoclean
 pip cache purge
 ```
 清理下内存
+
+## 修改 requirement.txt
+```bash
+#增加了
+minio==7.2.15 #MinIO Python SDK for Amazon S3 Compatible Cloud Storage
+```
+
+## gpu监控
+```bash
+apt-get install nvtop
+nvtop -m full
+```
+
+## 文档
+https://mineru.readthedocs.io/ 
