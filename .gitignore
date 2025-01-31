@@ -50,9 +50,9 @@ debug_utils/
 _build/
 
 
-#待转化文件目录和输出文件目录
-output/
-filestoconvert/
+# #待转化文件目录和输出文件目录
+# output/
+# filestoconvert/
 
 tencentide
 tencentide.pub
