@@ -123,6 +123,9 @@ magic-pdf -p small_ocr.pdf -o ./output
 5. 验证批量转化
 上传文件到/pdftoconvert, 图片/pdf/doc文件都放一个
 ```bash
+mkdir filestoconvert &&cd filestoconvert #如果没有先创建
+mkdir output #输出文件
+#上传若干文件
 python batch-mineru-3in1-s3.py
 ```
 看下结果。
