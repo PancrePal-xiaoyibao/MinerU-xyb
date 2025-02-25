@@ -77,6 +77,14 @@ line31
         base_url = f"https://{bucket_info[2]}" 对应url
 ```
 
+
+2. 制定自己的输入输出目录
+```python
+if __name__ == '__main__':
+    input_dir = "/workspace/MinerU/filestoconvert"  # 替换为实际的输入目录
+    output_dir = "/workspace/MinerU/output"  # 替换为实际的输出目录
+```
+
 ## 部署方式
 1. git clone目录到本地
 
@@ -90,7 +98,7 @@ pip install -U "magic-pdf[full]" --extra-index-url https://wheels.myhloli.com -i
 
 如果报错，问ai或者删除重建环境
 
-我在部署cloudstudio的时候需要完善几个包
+我在部署腾讯免费的gpu资源-cloudstudio 的时候需要完善几个包
 ```bash
 apt install update
 apt install nano
@@ -101,7 +109,7 @@ magic-pdf --version
 #应该可以显示版本
 ```
 
-3. 下载模型
+3. 下载模型，模型可以下载到指定的目录，避免GPU服务器每次重置后丢失。
 ```bash
 nano download_models.py
 

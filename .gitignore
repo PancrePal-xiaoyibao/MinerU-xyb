@@ -52,4 +52,9 @@ _build/
 tencentide
 tencentide.pub
 
-magic_pdf.json
+#private config
+magic-pdf.json
+
+#private files
+/output/
+/filestoconvert/
