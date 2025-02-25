@@ -51,3 +51,8 @@ _build/
 #github
 tencentide
 tencentide.pub
+
+magic_pdf.json
+
+filestoconvert/*
+output/*

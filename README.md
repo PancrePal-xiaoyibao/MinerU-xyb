@@ -16,7 +16,7 @@
         "xyb": [
             "7*****7",
             "dz********5g8",
-            "objectstorageapi.cloud.sealos.top"
+            "ob***jectstorageapi.cloud.sealos.to***p"
         ]  # 可以支持多个存储桶，在batch-mineru-3in1-s3.py中进行修改
     },
     "storage_config": {

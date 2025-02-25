@@ -1,0 +1,803 @@
+[
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/68e530125cb56e89c1a310517ba5ea6ce3b19078b1a456ce75153248b00db968.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/1be2f2f376966838976b5527856bd2cb4eada8987899551278075c4c69c27aa8.jpg",
+        "table_caption": [
+            "患者信息"
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>姓 名</td><td>秦晓强</td><td>徐汇院区</td><td></td></tr><tr><td>检测样本：</td><td>外周血手术标本</td><td>室：</td><td>胰腺外科</td></tr><tr><td>性 别：</td><td>男</td><td></td><td>AZ2309523BAZ2309523S</td></tr><tr><td>住院号：</td><td>2168477</td><td>检测时间：</td><td>2023-06-30</td></tr><tr><td>身份证号：</td><td>370203197509135916</td><td>报告时间：</td><td>2023-07-26</td></tr><tr><td>联系方式：</td><td>18516569138</td><td>报告版本：</td><td>V1.3</td></tr><tr><td>诊 断：</td><td colspan=\"3\">胰头恶性肿瘤</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "检测简介",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "多基因panel指将若干基因对应的探针设计到同一张捕获芯片上以捕获目标DNA并用于后续的基因测序。如今越来越多的基因变异被证实与各种形式的肿瘤相关，也有越来越多的靶向药物被证实对某种类型的癌症有治疗效果。多基因panel可以检测出对诊断、治疗有指导意义的基因突变，对肿瘤患者进行精准分型，同时也可能帮助某些肿瘤患者参加到临床试验中。  \n复旦大学附属肿瘤医院胰腺癌多基因检测panel挑选TCGA数据库、MSKCC-IMPACT数据库中与肿瘤发生发展及靶向治疗密切相关的基因。基于第二代测序技术，利用生物素探针杂交法富集其中682个基因的重要外显子区域与部分内含子以及部分启动子区域，并进行高深度测序，从而发现与肿瘤治疗有明确相关性的基因突变、拷贝数变 异、微卫星不稳定性和肿瘤突变负荷等事件。但连锁不平衡、大片段缺失、染色体倒置、染色体倍数变异、单亲二体变异、甲基化改变不属于本次检测范畴。",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/bfc5f1232b2b67fba1c5a44dfc89985adc7d8ceecee7f4878c750bbc7c9056bf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/c75d345cd93699664b23c9997fb35cdbd35f3eacb00588207f323621263aadd4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"6\">检测结果小结</td></tr><tr><td>基因名称</td><td>变异来源</td><td>变异类型</td><td>促癌变异</td><td>靶向药物</td><td>药物敏感性</td></tr><tr><td>ATM</td><td>胚系变异</td><td>移码缺失 是</td><td></td><td></td><td>证据等级</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "本次检测未发现提示药物靶点的生物学标志物本次检测发现有意义的遗传性基因突变。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. 本次检测结果小结仅依据本次检测发现的基因变异，依据目前医学发展掌握的证据汇总。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. 很多突变功能未经过完整的研究，很多突变为新发现突变，部分检测到的突变意义暂时无法充分解释。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. 就本次检测而言，体细胞变异指的是从体细胞发现的基因变异，本次检测仅报告突变等位基因频率超过 $2\\%$ 的体细胞突变。胚系变异指的是从外周血白细胞发现的基因变异。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. 大部分靶向药物仍处于基础研究或临床试验阶段，未正式应用于临床治疗。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. 1类证据：FDA（食品药品监督管理局）认证的生物学标志物提示患者对FDA批准在该病症中有适应症的药物敏感；2A类证据：标准治疗的生物学标志物提示患者对FDA批准在该病症中有适应症的药物敏感；2B类证据：标准治疗的生物学标志物提示患者对FDA批准在其他病症中有适应症的药物敏感；3A类证据：有临床证据的生物学标志物提示患者对在该病症中有适应症的药物敏感；3B类证据：有临床证据的生物学标志物提示患者对在其他病症中有适应症的药物敏感；4类证据：有生物学证据的生物学标志物提示患者对相应的药物敏感；R1类证据：FDA认证的生物学标志物提示患者对FDA批准在该病症中有适应症的药物耐药；R2类证据：有临床证据的生物学标志物可预测患者对该药物的耐药性。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. 有意义的遗传性基因突变包括评级为致病性及可能致病性胚系突变；对于评级为尚不明确的胚系突变，需要进一步的遗传学和基因学研究。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. 本报告具体临床意义及可用药物请咨询您的主治医生。",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "复旦大学附属肿瘤医院精准肿瘤中心",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/c7a53a2d6721c6eff7883ca5288f3d35f5a8dd2c9378271be3b071677adeae04.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>微卫星不稳定检测结果</td><td></td></tr><tr><td>MSI</td><td>结果</td></tr><tr><td>3.28</td><td>MS-Stable</td></tr></table></body></html>\n\n",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/b010ffc3a6ed6dae25a5b74151ba3e3e3984a1535185fb0db42d4f523d5fd127.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"5\">MMR相关基因检测结果（胚系突变）</td></tr><tr><td>基因</td><td>检测结果及评级</td><td>突变类型</td><td>基因型</td><td>突变位点</td></tr><tr><td>EPCAM</td><td>未检出</td><td></td><td></td><td></td></tr><tr><td>MLH1</td><td>未检出</td><td></td><td></td><td></td></tr><tr><td>MSH2</td><td>未检出</td><td></td><td></td><td></td></tr><tr><td>MSH6</td><td>未检出</td><td></td><td></td><td></td></tr><tr><td>PMS2</td><td>未检出</td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/a6799a637e1b60cd7dfcd6b8b1a7fb54c27f651cc7e28a1c045448b8625d0114.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>肿瘤突变负荷检测结果</td><td></td></tr><tr><td>突变负荷（Muts/Mb）</td><td>分类</td></tr><tr><td>3.2</td><td>低</td></tr></table></body></html>\n\n",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. 微卫星不稳定（MSI）是指DNA序列中简单重复序列的碱基长度和（或）重复次数的增加或减少。本次MSI状态的检测是基于检测Panel范围内的近1000个微卫星位点，采用MSIsensor 进行分析，并将MSIsensor的cutoff值设在17.25以上来定义MSI-H。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. MSI-H人群更容易在免疫治疗中获益。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. MSI常由MMR基因突变及功能缺失导致。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. MLH1基因抑制肿瘤的发生，在DNA错配修复中起重要作用。MLH1基因突变可导致错配修复基因不稳定，形成微卫星重复序列最终可能造成基因的移码突变。该基因突变常见于大肠癌、胃癌、子宫内膜癌及Lynch综合征等。研究发现错配修复缺陷可能提高肿瘤对放疗、化疗及免疫治疗的敏感性。FDA已经批准PD-1/PD-L1免疫检查点抑制剂用于错配修复缺陷和微卫星不稳定的肿瘤治疗。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. MSH2基因编码产物与其他的错配修复蛋白结合形成错配修复复合物，主要参与DNA错配修复过程。Lynch综合征患者中常发现该基因突变及其他的错配修复基因突变。该基因突变促进肿瘤发生并形成微卫星重复序列。MSH2突变在大肠癌基因检测中较常见。该基因突变也提示肿瘤对免疫检查点抑制剂治疗较敏感。MSH2基因编码错配修复相关核酸内切酶，在错配修复通路中起着重要作用。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. MSH6基因编码一个DNA错配修复muts家族成员。该基因突变可能与遗传性非息肉性结肠癌、结直肠癌和子宫内膜癌有关。MSH6基因突变可能对免疫抑制剂疗效相对敏感。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. PMS2基因突变可导致基因组错配修复缺陷从而使得基因组处于较高的不稳定状态。PMS2基因突变提示肿瘤对免疫检查点抑制剂等免疫治疗较敏感。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. 肿瘤突变负荷（Tumor Mutation Burden，TMB）指对肿瘤组织样本进行测序，每Mb碱基序列中体细胞突变的总数。部分研究显示较高的TMB可能与PD-L1抗体免疫治疗获益相关。",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. TMB高，低的评估参考已有临床研究报道, 临界值13.8mut/Mb。本次检测提供TMB值仅供参考。",
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/d4772243788eaa2c4a23586122c720b1feaeed28f6bb27549168d69b9b2b1918.jpg",
+        "table_caption": [
+            "药物敏感基因UGT1A1检测结果（胚系突变 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>基因</td><td>多态性位点 基因型</td><td></td></tr><tr><td>UGT1A1</td><td>rs34983651</td><td>TA6/TA6</td></tr></table></body></html>\n\n",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. UGT1A1是伊立替康代谢过程的关键酶。UGT1A1基因多态性与伊立替康的不良反应密切相关。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. UGT1A1 $^{\\star28}$ 和UGT1A1\\*6是在中国人群中分布频率最高的多态位点。",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. UGT1A1基因启动子区存在大量TA碱基重复序列，６个TA重复序列为UGT1A1 $^{\\star}1$ （野生型），7个TA重复序列为$\\mathsf{U G T1A1^{\\star}28}$ ，TA6/TA7为杂合突变，TA7/TA7为纯合突变。UGT1A1 $^{\\star}6$ 的多态性在第１外显子211位，G/G为野生型， $\\mathsf{G}/\\mathsf{A}$ 为杂合突变，A/A为纯合突变。",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/f690c99cf9450019a544a5c769800785f84bd9c70f210d244d861da18efcd42d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"3\">组织多基因突变检测结果</td></tr><tr><td>基因</td><td>突变类型</td><td>突变位点 突变丰度</td></tr><tr><td>BRD4</td><td>错义突变</td><td>NM_058243:ex0n2:c.A178G:p.T60A 57.70%</td></tr><tr><td>EPHB1</td><td>错义突变</td><td>NM_004441:ex0n2:c.A92C:p.E31A 2.50%</td></tr><tr><td>GNAS</td><td>错义突变</td><td>NM_000516:ex0n8:c.C601T:p.R201C 42.00%</td></tr><tr><td>GRIN2A</td><td>错义突变</td><td>NM_001134407:ex0n13:c.C3596T:p.P1199L 53.70%</td></tr><tr><td>MERTK</td><td>错义突变</td><td>NM_006343:ex0n15:c.G2060A:p.R687Q 22.30%</td></tr><tr><td>VEGFB</td><td>剪切区域突变</td><td>NM_003377:ex0n5:c.375-2A>C 76.50%</td></tr></table></body></html>\n\n",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. 本次检测涵盖的全部基因列表详见后页，本列表未标识的基因在本次检测中未发现体细胞突变。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. 突变丰度指在该位点所有的等位基因中，突变的等位基因的占比（相对野生型等位基因）。例如，突变丰度 $40\\%$ 意为该位点含有 $40\\%$ 的突变等位基因和 $60\\%$ 的野生型等位基因。本列表仅报告突变丰度 $2\\%$ 以上的体细胞突变。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. AKT1/3基因调控细胞增殖和生长，参与包括细胞凋亡和葡萄糖代谢在内的细胞过程，是PI3K/AKT信号通路中的活性中心。AKT1/3基因的E17K等突变可能会诱导肿瘤细胞增殖，并帮助肿瘤细胞抵抗某些药物，可能对AKT抑制剂敏感。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. BRCA1/2基因具有抑制恶性肿瘤发生、调节细胞复制、修复损伤的DNA等作用，是重要的抑癌基因。拥有BRCA1/2基因突变的家族倾向于具有高乳腺癌发生率，体细胞中BRCA1/2基因突变也能诱导肿瘤的形成，并可能对PARP抑制剂Olaparib（奥拉帕尼）敏感。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. EGFR基因是表皮生长因子受体家族成员之一，与肿瘤细胞的增殖、血管生成、肿瘤侵袭、转移及细胞凋亡的抑制有关。EGFR基因有药物敏感突变与耐药突变，目前已有许多针对EGFR基因突变的靶向药物应用于临床。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. ESR1基因编码雌激素受体，该基因的功能性突变在内分泌治疗后的人群中显著富集，有可能是产生乳腺癌内分泌耐药的重要原因之一。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. RB1基因在调控细胞周期、抑制肿瘤生长中起重要作用。RB1的突变可能与CDK4/6抑制剂的获得性耐药相关。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8. PIK3CA基因编码PI3K的p110催化亚基中的p110α亚型。PIK3CA基因突变是乳腺癌PI3K/AKT信号通路中最常见的基因突变，包括H1047、E545、E542等位点的激活性突变能够增加PI3K的催化活性，诱导细胞转化，抵抗细胞凋亡，并可能对PI3K抑制剂或MTOR抑制剂敏感。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. KRAS基因是RAS家族GTP酶的成员之一，调控GTP与GDP的转化，从而激活下游的MAPK、PI3K、RAF/MEK/ERK癌基因信号通路。KRAS基因突变促进肿瘤生长，携带此类基因突变的肿瘤患者可能对生长因子受体抑制剂Panitumumab、Cetuximab，以及酪氨酸激酶抑制剂Regorafenib耐药。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. NRAS基因编码细胞膜相关的GTP酶，调控MAPK和PI3K信号通路的活性。NRAS基因突变导致下游信号通路高度激活，促进肿瘤的生长。NRAS基因突变可能对生长因子受体抑制剂耐药Panitumumab和Cetuximab。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. BRAF基因属于受体丝氨酸/苏氨酸激酶，在MAPK信号通路中起重要作用。BRAF基因突变常见于恶性黑色素瘤、甲状腺癌、肺癌和大肠癌等肿瘤。BRAF基因突变使得MAPK信号通路不受机体调节，处于持续激活的状态，从而促进肿瘤的增殖、分化、侵袭和转移。BRAF基因突变可能对BRAF抑制剂包括Vemurafenib和Dabrafenib敏感。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. APC基因参与 $\\upbeta$ -catenin蛋白的泛素化降解过程，负向调节Wnt/ $\\upbeta$ -catenin信号通路的活性，是重要的抑癌基因。  \n具有APC基因突变的肿瘤可能对Wnt/ $\\upbeta$ -catenin信号通路抑制剂敏感。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "13. CHEK2基因编码丝氨酸/苏氨酸激酶，主要参与调节细胞周期检查点激活、细胞周期停滞、DNA损伤修复以及细胞凋亡等过程，在DNA损伤修复通路中起着重要作用。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. PTEN基因是PI3K/AKT/mTOR信号通路中重要的抑癌基因。PTEN基因拷贝数缺导致PTEN蛋白的缺失，使得PI3K/AKT/mTOR信号通路处于持续性的激活状态，促进肿瘤的发生发展。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. TP53属于抑癌基因，其主要功能是参与DNA损伤修复、维持基因组稳定及促进受损细胞凋亡等，是肿瘤中最常见的突变基因。该基因突变倾向于发生Li-Fraumeni综合征。",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. 本报告所列举的基因突变并未按基因重要性排序，具体临床意义请咨询您的主治医生。",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/15b578f6055c639473461bcb7a5ab255dce94b32bedcf84d8ea04616f1af5d76.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>胚系突变检测结果</td><td></td><td></td><td></td></tr><tr><td>基因</td><td>突变类型</td><td>基因型</td><td>突变位点</td></tr><tr><td>NOTCH2</td><td>错义突变</td><td>杂合子</td><td>NM_024408:exon1:c.C57G:p.C19W</td></tr><tr><td>NQO1</td><td>错义突变</td><td>杂合子</td><td>NM_000903:ex0n6:c.C559T:p.P187S</td></tr><tr><td>NOTCH3</td><td>错义突变</td><td>杂合子</td><td>NM_000435:ex0n33:c.C6668T:p.A2223V 良性</td></tr><tr><td>ABCB1</td><td>错义突变</td><td>杂合子</td><td>NM_001348946:ex0n21:c.T2677G:p.S893A 良性</td></tr><tr><td>UGT1A1</td><td>错义突变</td><td>纯合子</td><td>NM_000463:exon1:c.G211A:p.G71R 良性</td></tr><tr><td>NOTCH4</td><td>错义突变</td><td>杂合子</td><td>NM_004557:exon6:c.A958G:p.T320A 良性</td></tr><tr><td>NOTCH4</td><td>错义突变</td><td>杂合子</td><td>NM_004557:ex0n3:c.A349C:p.K117Q 良性</td></tr><tr><td>NOTCH4</td><td>非移码插入</td><td>杂合子</td><td>NM_004557:exon1:c.47_48insGCT:p.L16delinsLL 良性</td></tr><tr><td>KMT2C</td><td>错义突变</td><td>杂合子</td><td>NM_170606:ex0n18:c.G2963T:p.C988F 良性</td></tr><tr><td>KMT2C</td><td>错义突变</td><td>杂合子</td><td>NM_170606:ex0n18:c.T2959C:p.Y987H 良性</td></tr><tr><td>KMT2C</td><td>错义突变</td><td>杂合子</td><td>NM_170606:ex0n14:c.G2512A:p.G838S 良性</td></tr><tr><td>KMT2C</td><td>引引入终止密码子 突变</td><td>杂合子</td><td>NM_170606:exon14:c.2447dupA:p.Y816_1817delinsX 良性</td></tr><tr><td>KMT2C</td><td>错义突变</td><td>杂合子</td><td>NM_170606:exon11:c.G1577C:p.R526P 良性</td></tr><tr><td>MTHFR</td><td>错义突变</td><td>杂合子</td><td>NM_005957:ex0n8:c.A1286C:p.E429A 良性</td></tr><tr><td>XRCC1</td><td>错义突变</td><td>纯合子</td><td>NM_006297:ex0n10:c.A1196G:p.Q399R 良性</td></tr><tr><td>BRCA1</td><td>错义突变</td><td>杂合子</td><td>NM_007294:ex0n15:c.A4837G:p.S1613G 良性</td></tr><tr><td>BRCA1</td><td>错义突变</td><td>杂合子</td><td>NM_007294:ex0n10:c.A3548G:p.K1183R 良性</td></tr><tr><td>BRCA1</td><td>错义突变</td><td>杂合子</td><td>NM_007294:ex0n10:c.A3113G:p.E1038G 良性</td></tr><tr><td>BRCA1</td><td>错义突变</td><td>杂合子</td><td>NM_007294:ex0n10:c.C2612T:p.P871L 良性</td></tr><tr><td>BRCA2</td><td>错义突变</td><td>杂合子</td><td>NM_000059:exon10:c.A1114C:p.N372H 良性</td></tr><tr><td>BRCA2</td><td>错义突变</td><td>纯合子</td><td>NM_000059:ex0n14:c.T7397C:p.V2466A 良性</td></tr><tr><td>BRCA2</td><td>错义突变</td><td>杂合子</td><td>NM_000059:ex0n18:c.G8187T:p.K2729N 良性</td></tr><tr><td>MSH6</td><td>错义突变</td><td>杂合子</td><td>NM_000179:ex0n1:c.G116A:p.G39E 良性</td></tr><tr><td>SLCO1B1</td><td>错义突变</td><td>杂合子</td><td>NM_006446:exon6:c.T521C:p.V174A</td></tr><tr><td>BRIP1</td><td>错义突变</td><td>纯合子</td><td>良性 NM_032043:exon19:c.T2755C:p.S919P 良性</td></tr><tr><td>EPCAM</td><td>错义突变</td><td>杂合子</td><td>NM_002354:ex0n3:c.T344C:p.M115T 良性</td></tr><tr><td>ERBB2</td><td>错义突变</td><td>杂合子</td><td>NM_004448:exon17:c.A1963G:p.1655V 良性</td></tr><tr><td>ERBB2</td><td>错义突变</td><td>杂合子</td><td>NM_004448:exon27:c.C3508G:p.P1170A 良性</td></tr><tr><td>PMS2</td><td>错义突变</td><td>纯合子</td><td>NM_000535:ex0n11:c.A1621G:p.K541E 良性</td></tr><tr><td>PMS2</td><td>错义突变</td><td>杂合子</td><td>NM_000535:exon11:c.C1454A:p.T485K 良性</td></tr><tr><td>PMS2</td><td>错义突变</td><td>杂合子</td><td>NM_000535:exon11:c.C1408T:p.P470S 良性</td></tr><tr><td>ATM</td><td>移码缺失</td><td>杂合子</td><td>NM_000051:ex0n5:c.477_481del:p.1159fs 致病</td></tr><tr><td>ATM</td><td>错义突变</td><td>纯合子</td><td>NM_000051:ex0n40:c.A5948G:p.N1983S 良性</td></tr><tr><td>NBN</td><td>错义突变</td><td>杂合子</td><td>NM_002485:exon5:c.G553C:p.E185Q 良性</td></tr><tr><td>UMPS</td><td>错义突变</td><td>杂合子</td><td>NM_000373:ex0n3:c.G638C:p.G213A 良性</td></tr><tr><td>ARID2</td><td>错义突变</td><td>杂合子</td><td>NM_152641:ex0n14:c.A1759G:p.S587G</td></tr><tr><td>TP53</td><td>错义突变</td><td>纯合子</td><td>NM_000546:exon4:c.C215G:p.P72R 良性</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "复旦大学附属肿瘤医院精准肿瘤中心第7页/共20页 AZ2309523",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. 从外周血白细胞基因检测出的遗传变异常称为胚系突变，胚系变异是指在人的胚胎发育时便已携带的变异（几乎全部遗传自父母，人体的所有细胞都带有一致的胚系变异），这区别于肿瘤体细胞突变（在肿瘤发生过程中产生，只存在肿瘤细胞中）。  \n2. 该表列出了指南推荐进行胰腺癌筛查的基因、其他遗传性胰腺癌相关基因以及其他可能致病的基因突变，这些基因的胚系突变是胰腺癌发生的危险因素并有概率从其他直系亲属身上检出。  \n3. STK11、CDKN2A、MLH1、MSH2、MSH6、PALB2、PMS2、BRCA1/2、ATM、FANCC、FANCG和胰腺癌遗传致病性相关，本次基因检测到的突变致病性评估结果中致病和可能致病的基因有： ATM 其该表列出了本次检测中发现的胚系变异及多态性，并根据多个大型已知遗传数据库对这些位点进行风险评估。  \n4. 本次检测中发现的胚系突变注释根据相关疾病数据库进行，风险评估仅供参考。  \n5. 如对结果有任何疑问,或者咨询相关干预措施，请至门诊就诊询问主治医生。",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/ea7a53b3f21433411aaec4c9cc063fd0eb8bcd9972740c1a1db30da765e9b5fd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">组织多基因拷贝数变异检测结果</td></tr><tr><td>基因 检测结果</td><td>拷贝数</td></tr><tr><td>ERBB2 正常</td><td>2.2</td></tr><tr><td>CDK4 正常</td><td>1.9</td></tr><tr><td>CDK6 正常</td><td>2.4</td></tr><tr><td>CYP2D6 正常</td><td>2.2</td></tr><tr><td>MDM2</td><td>正常 2.5</td></tr><tr><td>MDM4 正常</td><td>2.4</td></tr><tr><td>MET</td><td>正常 2.2</td></tr><tr><td>MYC 正常</td><td>3.1</td></tr></table></body></html>\n\n",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. 基因拷贝数变异是一种介于1kb至3 Mb的DNA片段的变异，大部分拷贝数变异都与复杂疾病密切相关。拷贝数变异如果发生在肿瘤相关基因序列内部或周围可能引起癌基因激活、抑癌基因失活，最终导致肿瘤的发生。基因拷贝数变异通过改变基因剂量、调节基因活性影响基因表达、表型差异和表型适应，从而引起肿瘤以及其他遗传疾病。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2. CDK4基因基因是Ser / Thr蛋白激酶家族的成员，是蛋白激酶复合物的催化亚基，负责视网膜母细胞瘤基因（Rb）的磷酸化。已证实该基因及其相关蛋白的突变可诱发多种癌症。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3. CDK6基因是CMGC丝氨酸/苏氨酸蛋白激酶家族的成员，可调节肿瘤抑制蛋白Rb的活性。该基因的突变可导致细胞增殖减少，细胞运动性和极性受损，从而诱发多种癌症。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. CYP2D6基因编码细胞色素P450超家族的成员。细胞色素P450蛋白是单加氧酶，可催化涉及药物代谢和胆固醇、类固醇和其他脂质合成的许多反应。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5. ERBB2基因是表皮生长因子受体家族的一员，该基因的拷贝数扩增激活下游信号通路，促进肿瘤的发生发展。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "6. MDM2基因可编码泛素连接酶E3。该基因通过靶向肿瘤抑制蛋白，从而促进蛋白酶体降解，最后诱导肿瘤形成。该基因本身受p53转录调控，其过表达或扩增与多种癌症相关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7. MDM4基因可编码一种与p53结合蛋白MDM2结构相似的核蛋白，可与p53肿瘤抑制蛋白相结合并抑制其活性，已发现该基因在多种人类癌症中过表达。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "8. MET基因可编码酪氨酸激酶受体和原癌基因MET产物，在细胞存活，胚胎发生以及细胞迁移和侵袭中发挥重要作用。该基因的突变与乳头状肾细胞癌，肝细胞癌和多种头颈癌有关，另外其扩增和过表达也与多种人类癌症有关。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "9. MYC基因在细胞周期进程、细胞凋亡及转化中发挥重要作用。MYC基因扩增导致Myc蛋白持续性表达，引起许多基因的无规则高表达，最终可导致肿瘤形成，可能对BET抑制剂敏感。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "10. 本报告所列举的基因拷贝数变异并未按基因重要性排序。具体临床意义请咨询您的主治医生。",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "11. 本检测的拷贝数变异结果仅供参考，对于有治疗意义的拷贝数变异建议进行FISH检测验证。",
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/1d13b1d3d4943e0d8fa67f55894be0af1808ba603a9510fd7457107aaf144021.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>组织基因重排检测结果</td><td></td></tr><tr><td>基因</td><td>检测结果</td></tr><tr><td>ALK</td><td>未检出</td></tr><tr><td>BCL2</td><td>未检出</td></tr><tr><td>BCR</td><td>未检出</td></tr><tr><td>BRAF</td><td>未检出</td></tr><tr><td>BRCA1</td><td>未检出</td></tr><tr><td>BRCA2</td><td>未检出</td></tr><tr><td>CD274</td><td>未检出</td></tr><tr><td>CD74</td><td>未检出</td></tr><tr><td>CD86</td><td>未检出</td></tr><tr><td>EGFR</td><td>未检出</td></tr><tr><td>ERBB4</td><td>未检出</td></tr><tr><td>ETV4</td><td>未检出</td></tr><tr><td>ETV5</td><td>未检出</td></tr><tr><td>ETV6</td><td>未检出</td></tr><tr><td>EWSR1</td><td>未检出</td></tr><tr><td>EZR</td><td>未检出</td></tr><tr><td>FGFR1</td><td>未检出</td></tr><tr><td>FGFR2</td><td>未检出</td></tr><tr><td>FGFR3</td><td>未检出</td></tr><tr><td>KIT</td><td>未检出</td></tr><tr><td>KMT2A</td><td>未检出</td></tr><tr><td>MET</td><td>未检出</td></tr><tr><td>MSH2</td><td>未检出</td></tr><tr><td>MYB</td><td>未检出</td></tr><tr><td>MYC</td><td>未检出</td></tr><tr><td>NOTCH2</td><td>未检出</td></tr><tr><td>NRG1</td><td>未检出</td></tr><tr><td>NTRK1</td><td>未检出</td></tr><tr><td>NTRK2</td><td>未检出</td></tr><tr><td>NTRK3</td><td>未检出</td></tr><tr><td>NUTM1</td><td>未检出</td></tr><tr><td>PDGFRA</td><td>未检出</td></tr><tr><td>RAF1</td><td>未检出</td></tr><tr><td>RARA</td><td>未检出</td></tr><tr><td>RET</td><td>未检出</td></tr><tr><td>ROS1</td><td>未检出</td></tr><tr><td>RSPO2</td><td>未检出</td></tr><tr><td>SDC4</td><td>未检出</td></tr><tr><td>SLC34A2</td><td>未检出</td></tr><tr><td>TMPESS2</td><td>未检出</td></tr></table></body></html>\n\n",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "复旦大学附属肿瘤医院精准肿瘤中心",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. ALK基因融合突变是非小细胞肺癌常见的一种驱动基因，ALK融合突变阳性的患者使用克唑替尼等ALK抑制剂可以获益。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. BCL2基因编码完整的线粒体外膜蛋白，可阻止某些细胞（如淋巴细胞）的凋亡性死亡。 BCL2的组成型表达可诱导滤泡性淋巴瘤。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3. BCR基因和ABL基因编码融合蛋白，BCR-ABL1的酪氨酸激酶活性不受控制，有助于白血病细胞的永生。BCR蛋白具有丝氨酸/苏氨酸激酶活性，是p21rac和其他激酶的GTPase激活蛋白。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4. BRAF基因属于RAF丝氨酸/苏氨酸蛋白激酶家族成员，可以影响细胞分裂、分化和分泌。该基因的突变可导致黑色素瘤、非霍奇金淋巴瘤、结肠直肠癌、甲状腺癌、非小细胞肺癌和肺腺癌等。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. BRCA1基因编码核磷蛋白，可以维持基因组稳定性，并且可作为肿瘤抑制因子。在转录、DNA修复以及重组中发挥作用。该基因的突变可导致遗传性乳腺癌，遗传性乳腺癌和卵巢癌。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6. BRCA2基因和BRCA1的遗传突变增加了罹患乳腺癌或卵巢癌的风险。 BRCA1和BRCA2可以维持基因组稳定性，特别是双链DNA修复的同源重组。BRCA2被认为是抑癌基因。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "7. CD274，通常也称为PDL1，是一种与受体PD1结合的配体，通常存在于T细胞上并起到阻断T细胞活化的作用。PD1在包括黑色素瘤和非小细胞肺癌在内的多种癌症中表达，推测PD1 / PDL1的相互作用是肿瘤逃避免疫应答的可能机制。现已经开发出许多靶向PD1 / PDL1相互作用的检查点阻断抑制剂，包括pembrolizumab和nivolumab，以使T细胞识别肿瘤细胞而不被肿瘤灭活。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8. CD28基因编码的蛋白质对于T细胞的增殖和存活，细胞因子的产生以及T型辅助2型发育至关重要。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9. CD74基因编码的蛋白质与II类主要组织相容性复合物（MHC）相关，可调节免疫反应抗原呈递；同时作为细胞表面受体可以启动存活途径和细胞增殖。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "10. EGFR基因编码跨膜糖蛋白，是蛋白激酶超家族的成员，是一种与表皮生长因子结合的细胞表面蛋白。 其与配体的结合诱导受体二聚化和酪氨酸自磷酸化并导致细胞增殖。该基因的突变可诱导肺癌。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11. ERBB4（HER4）是受体酪氨酸激酶EGFR亚家族的四个成员之一。配体包括EGF、上皮调节蛋白、β纤维素和神经调节蛋白。其中NRG3和NRG4专门结合HER4。已在多种癌症类型中鉴定出ERBB4突变，包括黑色素瘤、肺腺癌和髓母细胞瘤。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "12. ETV4基因是一种蛋白质编码基因，与该基因相关的疾病包括尤文肉瘤和骨外尤文肉瘤。该基因可参与LKB1和RET信号传导。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "13. ETV5基因是一种蛋白质编码基因，与其相关的疾病包括神经纤维瘤病和尿道综合症。其相关途径包括IL12介导的信号通路和FOXM1转录因子网络。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "14. ETV6基因编码ETS家族转录因子。小鼠基因敲除研究表明，该基因在造血和血管网络发育中是必需的。该基因与白血病和先天性纤维肉瘤相关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "15. EWSR1基因编码一种多功能蛋白质，可参与各种细胞过程，如基因表达、细胞信号传导以及RNA加工和运输。该基因与编码转录因子的多种基因之间的染色体易位促发癌症，同时该基因的突变也会引起尤文氏肉瘤以及其他多种肿瘤。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "16. EZR基因编码的细胞质外周膜蛋白在微绒毛中起蛋白质酪氨酸激酶底物的作用。 作为ERM蛋白家族的成员，该蛋白可作为质膜和肌动蛋白细胞骨架之间的中间产物，在细胞表面结构的粘附，迁移和组织中起着关键作用，并且与多种人类癌症有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "17. FGFR1基因是成纤维细胞生长因子受体（FGFR）家族的成员，可影响有丝分裂和分化。该基因的突变与Pfeiffer综合征，Jackson-Weiss综合征，Antley-Bixler综合征，骨球发育不良和常染色体显性Kallmann综合征2相关。涉及该基因的染色体畸变与干细胞骨髓增生性疾病和干细胞白血病淋巴瘤综合征有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "18. FGFR2基因是成纤维细胞生长因子受体家族的成员，可影响有丝分裂和分化。该基因的突变与克鲁佐氏综合症，普发氏综合症，颅突神经病，阿珀特氏综合症，杰克逊-魏斯氏综合症，比利·史蒂文森角质回旋综合征，赛特尔-乔岑氏综合症和综合征性颅骨融合症有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "19. FGFR3基因是成纤维细胞生长因子受体（FGFR）家族的成员，可影响有丝分裂和分化，并在骨骼发育和维持中发挥重要作用。该基因的突变会导致颅突增生和多种类型的骨骼发育不良。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "20. KIT基因编码原癌基因c-kit的人类同源物。 该蛋白是肥大细胞生长因子，也称为干细胞因子的3型跨膜受体。该基因的突变与胃肠道间质瘤，肥大细胞疾病，急性骨髓性贫血和花斑病有关。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "21. KMT2A基因编码一个转录共激活因子，可调节早期发育和造血过程中基因表达。介导与表观遗传转录激活相关的染色质修饰，调节特定靶基因转录。可诱导急性淋巴白血病和急性髓细胞性白血病。",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "22. MET基因编码酪氨酸激酶受体蛋白家族成员和原癌基因MET的产物。 在细胞存活，胚胎发育以及细胞迁移和侵袭中起作用。该基因的突变与乳头状肾细胞癌、肝细胞癌和各种头颈癌有关。该基因的扩增和过表达也与多种人类癌症有关。 报告人：胡欣 审核人：王坚）11",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "23. MSH2基因突变可诱导遗传性非息肉性结肠癌，是大肠杆菌错配修复基因mutS的人类同源物，与遗传性非息肉性结肠癌中发现的微卫星序列（RER $^+$ 表型）的特征性变化一致。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "24. MYB基因编码具有三个HTH DNA结合结构域的蛋白质，可调节转录，在造血过程中起着至关重要的作用。该基因是癌基因，可诱导白血病和淋巴瘤。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "25. MYC基因是一种原癌基因，可编码一种核磷蛋白，在细胞凋亡和转化中起作用。该基因的扩增可诱导许多人类癌症。该基因的易位可诱导伯基特淋巴瘤和多发性骨髓瘤。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "26. NOTCH2基因是NOTCH家族的成员，在多种发育过程中发挥重要作用。该蛋白质在反式高尔基体网络中裂解，并以异二聚体形式存在于细胞表面。该蛋白可作为膜结合配体的受体，并在血管、肾脏和肝脏发育中起作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "27. NRG1融合是一个罕见的致癌驱动基因。NRG1融合在多种实体瘤中均被发现，但整体发生率极低。在肺癌患者中，CD74是最常见的NRG1融合伙伴。阿法替尼是一种潜在的治疗方案，可用于多种癌症类型的NRG1融合阳性肿瘤患者。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "28. NTRK1基因是神经营养性酪氨酸激酶受体（NTKR）家族的成员，是一种膜结合受体，可导致细胞分化。该基因的突变与先天性无痛症，无汗症，自残行为，认知障碍和癌症有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "29. NTRK2基因是神经营养性酪氨酸受体激酶（NTRK）家族的成员，是一种膜结合受体，可通过信号传导导致细胞分化。该基因的突变与肥胖和情绪障碍有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "30. NTRK3基因是神经营养性酪氨酸受体激酶（NTRK）家族的成员，是一种膜结合受体，可导致细胞分化。该基因的突变与髓母细胞瘤，分泌性乳腺癌和其他多种癌症有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "31. NUTM1基因是一种蛋白质编码基因，在调节扩增中发挥作用，可调节TERT表达。与该基因相关的疾病包括NUT中线癌和喉神经内分泌肿瘤。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "32. PDGFRA基因编码血小板衍生的生长因子细胞表面酪氨酸激酶受体，在器官发育、伤口愈合和肿瘤发生发展中起作用。该基因的突变与特发性高嗜酸性粒细胞综合征、体细胞和家族性胃肠道间质瘤以及多种其他癌症有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "33. PDGFRB基因编码编码血小板衍生的生长因子细胞表面酪氨酸激酶受体，对于心血管系统的正常发育至关重要，并有助于肌动蛋白细胞骨架的重排。该基因与5-q综合征和嗜酸性粒细胞增多的慢性骨髓增生性疾病有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "34. RAF1基因通过MEK1和MEK2，以及ERK1和ERK2通路在细胞分裂周期、凋亡、细胞分化和细胞迁移中起重要作用。该基因的突变与Noonan综合征和LEOPARD综合征有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "35. RARA基因是核视黄酸受体，可以调节转录，与发育、分化、凋亡，肉芽肿有关。该基因与其他基因之间的易位与急性早幼粒细胞白血病有关。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "36. RET基因融合在几类甲状腺恶性肿瘤里很常见，RET基因融合也发生在非小细胞肺癌。RET基因重排患者对凡德他尼、卡博替尼等药物治疗敏感性增加。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "37. ROS1基因可与多个基因发生融合突变，其中最主要的融合伙伴是CD74。ROS1基因融合患者对克唑替尼和色瑞替尼相对敏感。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "38. RSPO2基因编码R-spondin蛋白家族的成员，可通过抑制泛素E3连接酶增强Wnt信号传导。该基因所在染色体的异位可导致基因融合从而诱导多种人类癌症。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "39. SDC4该基因位于20号染色体上，编码的蛋白质是跨膜（I型）硫酸乙酰肝素蛋白聚糖，可作为细胞内信号传导受体。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "40. SLC3A2基因是溶质载体家族的成员，编码细胞表面跨膜蛋白。其编码的转运蛋白在调节细胞内钙水平以及转运L型氨基酸中起重要作用。",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "41. TMPRSS2基因是丝氨酸蛋白酶家族成员，参与多种生理和病理过程。该基因与前列腺癌密切相关，在前列腺癌细胞中，该基因被雄激素所上调，而在雄激素非依赖性前列腺癌组织中被下调。",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/eacd0f359fc0a31c8a5d62203a19adc85e2f2302898144be2698eb8ba400715f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"4\">样本质控</td></tr><tr><td colspan=\"2\">质量参数</td><td>组织样本</td><td>血液样本</td></tr><tr><td>DNA质量评估</td><td>送检DNA总量</td><td>4.1μg</td><td>1.1μg</td></tr><tr><td>测序质量评估</td><td>总序列数</td><td>22.1M</td><td>6.3M</td></tr><tr><td></td><td>插入片段长度</td><td>199bp</td><td>201bp</td></tr><tr><td></td><td>序列回贴比率</td><td>100.00%</td><td>100.00%</td></tr><tr><td></td><td>平均测序深度</td><td>926x</td><td>269x</td></tr><tr><td colspan=\"2\">靶向区域深度>10x占比</td><td>99.2%</td><td>99.1%</td></tr><tr><td colspan=\"2\">总体质量评估 合格</td><td colspan=\"2\"></td></tr></table></body></html>\n\n",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. 部分样品可能出现如溶血、黄疸、脂血等情况，对检测结果可能产生干扰。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2. 送检DNA总量：DNA总提取量如果偏低可能会影响检测低丰度突变的敏感性",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3. 总序列数：二代测序获得的总的序列片段。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4. 插入片段长度：DNA文库插入片段长度的中位数，体现了原始DNA片段的长度分布。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. 序列回贴比率：成功比对回到参考基因组的序列数目占比。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6. 平均测序深度：目标基因每个碱基被测到的平均次数，数值过低会影响本次检测的准确性。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7. 深度 $\\tt>10x$ 占比：测序深度超过10X的区域占所有目标区间的比例。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8. 总体质量评估：结合以上参数进行综合评估。若出现风险建库的质量评估判断，说明样本DNA未通过全部质检，不适合后续检测。继续检测所得到的数据分析结果的准确性和敏感性会受到一定影响。",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/ca729463d98eace8f5165e197b76ab34e7be0e10daedcc0d1c93330e8d86662d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/f8208b1fa4ee0cb9bbdf51830474726d5793775edce8a9893bacb07693adfe9d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"11\">检测突变的基因列表</td></tr><tr><td>ABCB1</td><td>ABCC2</td><td>ABL1</td><td>ABL2</td><td>ABRAXAS1 ACVR1</td><td></td><td>ACVR1B</td><td>ACVR2A</td><td>ADGRA2</td><td>AFF1</td></tr><tr><td>AGO2</td><td>AHNAK</td><td>AKT1</td><td>AKT2</td><td>AKT3</td><td>ALK</td><td>ALOX12B</td><td>AMER1</td><td>ANKRD11</td><td>APC</td></tr><tr><td>APCDD1</td><td>AR</td><td>ARAF</td><td>ARFRP1</td><td>ARHGEF12</td><td>ARID1A</td><td>ARID1B</td><td>ARID2</td><td>ARID5B</td><td>ARMC5</td></tr><tr><td>ARRDC3</td><td>ASH1L</td><td>ASXL1</td><td>ASXL2</td><td>ASXL3</td><td>ATF1</td><td>ATM</td><td>ATP1A1</td><td>ATP2B3</td><td>ATR</td></tr><tr><td>ATRX</td><td>AURKA</td><td>AURKB</td><td>AXIN1</td><td>AXIN2</td><td>AXL</td><td>B2M</td><td>BABAM1</td><td>BACH1</td><td>BAP1</td></tr><tr><td>BARD1</td><td>BBC3</td><td>BCL10</td><td>BCL2</td><td>BCL2L1</td><td>BCL2L11</td><td>BCL2L2</td><td>BCL6</td><td>BCOR</td><td>BCORL1</td></tr><tr><td>BCR</td><td>BIRC3</td><td>BLM</td><td>BMPR1A</td><td>BMS1</td><td>BRAF</td><td>BRCA1</td><td>BRCA2</td><td>BRD4</td><td>BRIP1</td></tr><tr><td>BTG1</td><td>BTG2</td><td>BTK</td><td>C8orf34</td><td>CACNA1D</td><td>CALR</td><td>CARD11</td><td>CARM1</td><td>CASP7</td><td>CASP8</td></tr><tr><td>CBFB</td><td>CBL</td><td>CCN6</td><td>CCND1</td><td>CCND2</td><td>CCND3</td><td>CCNE1</td><td>CD22</td><td>CD274</td><td>CD276</td></tr><tr><td>CD40</td><td>CD70</td><td>CD74</td><td>CD79A</td><td>CD79B</td><td>CD80</td><td>CD86</td><td>CDA</td><td>CDC42</td><td>CDC73</td></tr><tr><td>CDH1</td><td>CDK12</td><td>CDK4</td><td>CDK6</td><td>CDK8</td><td>CDKN1A</td><td>CDKN1B</td><td>CDKN1C</td><td>CDKN2A</td><td>CDKN2B</td></tr><tr><td>CDKN2C</td><td>CEBPA</td><td>CENPA</td><td>CHD1</td><td>CHD2</td><td>CHD4</td><td>CHEK1</td><td>CHEK2</td><td>CHUK</td><td>CIC</td></tr><tr><td>CLASP2</td><td>CNTNAP5</td><td>COL1A1</td><td>COP1</td><td>CRBN</td><td>CREBBP</td><td>CRKL</td><td>CRLF2</td><td>CSDE1</td><td>CSF1R</td></tr><tr><td>CSF3R</td><td>CTCF</td><td>CTLA4</td><td>CTNNA1</td><td>CTNNB1</td><td>CUL3</td><td>CUL4A</td><td>CUL4B</td><td>CUX1</td><td>CXCR4</td></tr><tr><td>CYLD</td><td>CYP17A1</td><td>CYP19A1</td><td>CYP2C8</td><td>CYP2D6</td><td>CYSLTR2</td><td>DAXX</td><td>DCUN1D1</td><td>DDR1</td><td>DDR2</td></tr><tr><td>DEPDC5</td><td>DICER1</td><td>DIS3</td><td>DMC1</td><td>DNAJB1</td><td>DNMT1</td><td>DNMT3A</td><td>DNMT3B</td><td>DOT1L</td><td>DPYD</td></tr><tr><td>DROSHA</td><td>DUSP4</td><td>E2F3</td><td>EED</td><td>EGFL7</td><td>EGFR</td><td>EGLN1</td><td>EGLN2</td><td>EIF1AX</td><td>EIF4A2</td></tr><tr><td>EIF4E</td><td>ELF3</td><td>ELK4</td><td>ELOC</td><td>EME1</td><td>EME2</td><td>EMSY</td><td>EP300</td><td>EPAS1</td><td>EPCAM</td></tr><tr><td>EPHA2</td><td>EPHA3</td><td>EPHA5</td><td>EPHA7</td><td>EPHB1</td><td>EPHB4</td><td>ERBB2</td><td>ERBB3</td><td>ERBB4</td><td>ERCC1</td></tr><tr><td>ERCC2</td><td>ERCC3</td><td>ERCC4</td><td>ERCC5</td><td>ERF</td><td>ERG</td><td>ERRFI1</td><td>ESR1</td><td>ETV1</td><td>ETV4</td></tr><tr><td>ETV5</td><td>ETV6</td><td>EWSR1</td><td>EZH1</td><td>EZH2</td><td>EZR</td><td>FANCA</td><td>FANCC</td><td>FANCD2</td><td>FANCE</td></tr><tr><td>FANCF</td><td>FANCG</td><td>FANCI</td><td>FANCL</td><td>FANCM</td><td>FAS</td><td>FAT1</td><td>FAT3</td><td>FBXW7</td><td>FCGR2B</td></tr><tr><td>FGF10</td><td>FGF12</td><td>FGF14</td><td>FGF19</td><td>FGF23</td><td>FGF3</td><td>FGF4</td><td>FGF6</td><td>FGF7</td><td>FGFR1</td></tr><tr><td>FGFR2</td><td>FGFR3</td><td>FGFR4</td><td>FH</td><td>FHIT</td><td>FLCN</td><td>FLT1</td><td>FLT3</td><td>FLT4</td><td>FOXA1</td></tr><tr><td>FOXL2</td><td>FOXO1</td><td>FOXP1</td><td>FRS2</td><td>FUBP1</td><td>FYN</td><td>GABRA6</td><td>GATA1</td><td>GATA2</td><td>GATA3</td></tr><tr><td>GATA4</td><td>GATA6</td><td>GCGR</td><td>GEN1</td><td>GID4</td><td>GLI1</td><td>GNA11</td><td>GNA13</td><td>GNAQ</td><td>GNAS</td></tr><tr><td>GPS2</td><td>GREM1</td><td>GRIN2A</td><td>GRM3</td><td>GSK3B</td><td>GSTM1</td><td>GSTP1</td><td>GSTT1</td><td>H1-2</td><td>H2BC5</td></tr><tr><td>H3-3A</td><td>H3-3B</td><td>H3-4</td><td>H3-5</td><td>H3C1</td><td>H3C10</td><td>H3C11</td><td>H3C12</td><td>H3C13</td><td>H3C14</td></tr><tr><td>H3C2</td><td>H3C3</td><td>H3C4</td><td>H3C6</td><td>H3C7</td><td>H3C8</td><td>HDAC1</td><td>HDAC2</td><td>HDAC4</td><td>HGF</td></tr><tr><td>HLA-A</td><td>HLA-B</td><td>HMGB1</td><td>HNF1A</td><td>HNF1B</td><td>HOXB13</td><td>HRAS</td><td>HSD3B1</td><td>HSP90AA1 ICOSLG</td><td></td></tr><tr><td>ID3</td><td>IDH1</td><td>IDH2</td><td>IFNGR1</td><td>IGF1</td><td>IGF1R</td><td>IGF2</td><td>IKBKE</td><td>IKZF1</td><td>IL10</td></tr><tr><td>IL7R</td><td>INHA</td><td>INHBA</td><td>INPP4A</td><td>INPP4B</td><td>INPPL1</td><td>INSR</td><td>IPMK</td><td>IRF2</td><td>IRF4</td></tr><tr><td>IRS1</td><td>IRS2</td><td>JAK1</td><td>JAK2</td><td>JAK3</td><td>JUN</td><td>KAT6A</td><td>KCNJ5</td><td>KDM5A</td><td>KDM5C</td></tr><tr><td>KDM6A</td><td>KDR</td><td>KEAP1</td><td>KEL</td><td>KIT</td><td>KLF4</td><td>KLHL6</td><td>KMT2A</td><td>KMT2B</td><td>KMT2C</td></tr><tr><td>KMT2D</td><td>KNSTRN</td><td>KRAS</td><td>LATS1</td><td>LATS2</td><td>LMO1</td><td>LRP1B</td><td>LTK</td><td>LYN</td><td>LZTR1</td></tr><tr><td>MAF</td><td>MAFA</td><td>MAGI2</td><td>MALT1</td><td>MAP2K1</td><td>MAP2K2</td><td>MAP2K4</td><td>MAP3K1</td><td>MAP3K13</td><td>MAP3K14</td></tr><tr><td>MAP4K2</td><td>MAPK1</td><td>MAPK3</td><td>MAPKAP1</td><td>MAPKBP1</td><td>MAX</td><td>MCAM</td><td>MCL1</td><td>MDC1</td><td>MDH2</td></tr><tr><td>MDM2</td><td>MDM4</td><td>MED12</td><td>MEF2B</td><td>MEN1</td><td>MERTK</td><td>MET</td><td>MGA</td><td>MGMT</td><td>MITF</td></tr><tr><td>MKNK1</td><td>MLH1</td><td>MLH3</td><td>MLLT1</td><td>MPL</td><td>MRE11</td><td>MSH2</td><td>MSH3</td><td>MSH4</td><td>MSH6</td></tr><tr><td>MSI1</td><td>MSI2</td><td>MST1</td><td>MST1R</td><td>MTAP</td><td>MTHFR</td><td>MTOR</td><td>MUS81</td><td>MUTYH</td><td>MYB</td></tr><tr><td>MYC</td><td>MYCL</td><td>MYCN</td><td>MYD88</td><td>MYOD1</td><td>NBN</td><td>NCOA3</td><td>NCOR1</td><td>NEB</td><td>NEGR1</td></tr></table></body></html>\n\n",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/a90c2afa8b78e22a6c644621bd0da940e6f843e4c578887d426362f8ad91b473.jpg",
+        "table_caption": [
+            "检测突变的基因列表"
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>NF1</td><td>NF2</td><td>NFE2L2</td><td>NFKBIA</td><td>NKX2-1</td><td>NKX3-1</td><td>NOTCH1</td><td>NOTCH2</td><td>NOTCH3</td><td>NOTCH4</td></tr><tr><td>NPM1</td><td>NQO1</td><td>NR3C1</td><td>NR4A3</td><td>NRAS</td><td>NRG1</td><td>NSD1</td><td>NSD2</td><td>NSD3</td><td>NT5C2</td></tr><tr><td>NTHL1</td><td>NTRK1</td><td>NTRK2</td><td>NTRK3</td><td>NUF2</td><td>NUMA1</td><td>NUP93</td><td>NUTM1</td><td>OGG1</td><td>P2RY8</td></tr><tr><td>PAK1</td><td>PAK3</td><td>PAK5</td><td>PALB2</td><td>PARP1</td><td>PARP2</td><td>PARP3</td><td>PARP4</td><td>PAX5</td><td>PBRM1</td></tr><tr><td>PDCD1</td><td>PDCD1LG2</td><td>2PDGFRA</td><td>PDGFRB</td><td>PDK1</td><td>PDPK1</td><td>PGR</td><td>PHF2</td><td>PHOX2B</td><td>PIK3C2B</td></tr><tr><td>PIK3C2G</td><td>PIK3C3</td><td>PIK3CA</td><td>PIK3CB</td><td>PIK3CD</td><td>PIK3CG</td><td>PIK3R1</td><td>PIK3R2</td><td>PIK3R3</td><td>PIM1</td></tr><tr><td>PLCG2</td><td>PLK2</td><td>PMAIP1</td><td>PML</td><td>PMS1</td><td>PMS2</td><td>PNRC1</td><td>POLD1</td><td>POLE</td><td>POM121L12</td></tr><tr><td>POT1</td><td>PPARG</td><td>PPM1D</td><td>PPP2R1A</td><td>PPP2R2A</td><td>PPP4R2</td><td>PPP6C</td><td>PRDM1</td><td>PRDM14</td><td>PREX2</td></tr><tr><td>PRKACA</td><td>PRKAR1A</td><td>PRKCI</td><td>PRKD1</td><td>PRKDC</td><td>PRKN</td><td>PRSS8</td><td>PRUNE2</td><td>PSIP1</td><td>PTCH1</td></tr><tr><td>PTEN</td><td>PTK2</td><td>PTP4A1</td><td>PTPN11</td><td>PTPRD</td><td>PTPRO</td><td>PTPRS</td><td>PTPRT</td><td>QKI</td><td>RAB35</td></tr><tr><td>RAC1</td><td>RAC2</td><td>RAD21</td><td>RAD50</td><td>RAD51</td><td>RAD51AP2</td><td>RAD51B</td><td>RAD51C</td><td>RAD51D</td><td>RAD52</td></tr><tr><td>RAD54L</td><td>RAF1</td><td>RANBP2</td><td>RARA</td><td>RASA1</td><td>RASSF1</td><td>RB1</td><td>RBBP8</td><td>RBM10</td><td>RBM6</td></tr><tr><td>RECQL</td><td>RECQL4</td><td>REL</td><td>RET</td><td>RHEB</td><td>RHOA</td><td>RICTOR</td><td>RIT1</td><td>RNF43</td><td>ROBO1</td></tr><tr><td>ROBO2</td><td>ROS1</td><td>RPA1</td><td>RPL22</td><td>RPS6KA4</td><td>RPS6KB2</td><td>RPTOR</td><td>RRAGC</td><td>RRAS</td><td>RRAS2</td></tr><tr><td>RRM1</td><td>RSPO2</td><td>RTEL1</td><td>RUNX1</td><td>RUNX1T1</td><td>RXRA</td><td>RYBP</td><td>SDC4</td><td>SDHA</td><td>SDHAF2</td></tr><tr><td>SDHB</td><td>SDHC</td><td>SDHD</td><td>SESN1</td><td>SESN2</td><td>SESN3</td><td>SETD2</td><td>SF1</td><td>SF3A1</td><td>SF3B1</td></tr><tr><td>SGK1</td><td>SH2B3</td><td>SH2D1A</td><td>SHOC2</td><td>SHQ1</td><td>SLC34A2</td><td>SLCO1B1</td><td>SLX1A</td><td>SLX4</td><td>SMAD2</td></tr><tr><td>SMAD3</td><td>SMAD4</td><td>SMARCA2SMARCA4SMARCB1</td><td></td><td></td><td>SMARCD1</td><td>SMO</td><td>SMYD3</td><td>SNCAIP</td><td>SOCS1</td></tr><tr><td>SOS1</td><td>SOX10</td><td>SOX17</td><td>SOX2</td><td>SOX9</td><td>SPEN</td><td>SPOP</td><td>SPRED1</td><td>SRC</td><td>SRSF2</td></tr><tr><td>STAG2</td><td>STAT3</td><td>STAT4</td><td>STAT5A</td><td>STAT5B</td><td>STK11</td><td>STK19</td><td>STK40</td><td>SUFU</td><td>SUGP2</td></tr><tr><td>SUZ12</td><td>SYK</td><td>TACC3</td><td>TAF1</td><td>TAP1</td><td>TBX3</td><td>TCF3</td><td>TCF7L2</td><td>TEK</td><td>TENT5C</td></tr><tr><td>TERC</td><td>TERT</td><td>TET1</td><td>TET2</td><td>TGFBR1</td><td>TGFBR2</td><td>TIMP3</td><td>TIPARP</td><td>TMEM127</td><td>TMPRSS2</td></tr><tr><td>TNFAIP3</td><td>TNFRSF14</td><td>TNFSF11</td><td>TOP1</td><td>TOP2A</td><td>TP53</td><td>TP53BP1</td><td>TP53BP2</td><td>TP63</td><td>TPMT</td></tr><tr><td>TRAF2</td><td>TRAF7</td><td>TRIM33</td><td>TRRAP</td><td>TSC1</td><td>TSC2</td><td>TSHR</td><td>TYMS</td><td>TYRO3</td><td>U2AF1</td></tr><tr><td>U2AF2</td><td>UGT1A1</td><td>UMPS</td><td>UPF1</td><td>USP6</td><td>USP8</td><td>VEGFA</td><td>VEGFB</td><td>VEGFC</td><td>VHL</td></tr><tr><td>VTCN1</td><td>WRN</td><td>WT1</td><td>WWTR1</td><td>XIAP</td><td>XPC</td><td>XPO1</td><td>XRCC1</td><td>XRCC2</td><td>XRCC3</td></tr><tr><td>XRCC4</td><td>XRCC6</td><td>YAP1</td><td>YES1</td><td>YY1</td><td>ZBTB2</td><td>ZFHX3</td><td>ZNF217</td><td>ZNF292</td><td>ZNF703</td></tr><tr><td>ZNRF3</td><td>ZRSR2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/994eb8edde644ad2942bd7edaa767580268e8fc39310a6b134ee7b1f34e08c05.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"8\">检测拷贝数变异的基因列表</td></tr><tr><td>CDK4 CDK6</td><td>CYP2D6</td><td>ERBB2</td><td>MDM2</td><td>MDM4</td><td>MET</td><td>MYCL</td></tr></table></body></html>\n\n",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/0d6ea1b88b5597f79abf7aa333974427416990a52426b15e01a96c991ab35ce9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"9\">检测基因重排的基因列表</td></tr><tr><td>ALK</td><td>BCL2</td><td>BCR</td><td>BRAF</td><td>BRCA1</td><td>BRCA2</td><td>CD274</td><td>CD74</td><td>CD86</td><td>EGFR</td></tr><tr><td>ERBB4</td><td>ETV4</td><td>ETV5</td><td>ETV6</td><td>EWSR1</td><td>EZR</td><td>FGFR1</td><td>FGFR2</td><td>FGFR3</td><td>KIT</td></tr><tr><td>KMT2A</td><td>MET</td><td>MSH2</td><td>MYB</td><td>MYC</td><td>NOTCH2</td><td>NRG1</td><td>NTRK1</td><td>NTRK2</td><td>NTRK3</td></tr><tr><td>NUTM1</td><td>PDGFRA</td><td>RAF1</td><td>RARA</td><td>RET</td><td>ROS1</td><td>RSPO2</td><td>SDC4</td><td>SLC34A2</td><td>TMPRSS2</td></tr></table></body></html>\n\n",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "注：",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1. 标注红色的基因为本次胰腺癌检测重点关注的核心基因。  \n2. 标注黑色的基因在胰腺癌既往研究报道中有一定频率的基因变异，但目前对胰腺癌诊断治疗的意义仍有待进一步研究。",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "肿瘤靶向药物基因及突变信息（非检测结果，仅供参考）",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/777e725134e437b02d5966e1ae29650d126360ea13471c9aa599a77c3a332ee6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>基因</td><td>常见突变位点</td><td>肿瘤</td><td>等级 药物</td><td></td></tr><tr><td rowspan=\"2\">ABL1</td><td>BCR-ABL1融合</td><td>B淋巴细胞白血病/淋巴瘤， BCR-ABL1+</td><td>1</td><td>Dasatinib, Imatinib</td></tr><tr><td>BCR-ABL1融合</td><td>慢性粒细胞白血病， BCR-ABL1+</td><td>1</td><td>Nilotinib, Dasatinib, Imatinib</td></tr><tr><td rowspan=\"3\">AKT1</td><td>E17K</td><td>乳腺癌</td><td>3A</td><td>AZD5363</td></tr><tr><td>E17K</td><td>子宫内膜癌</td><td>3A</td><td>AZD5363</td></tr><tr><td>E17K</td><td>卵巢癌</td><td>3A</td><td>AZD5363</td></tr><tr><td rowspan=\"8\">ALK</td><td>融合</td><td>非小细胞肺癌</td><td>1</td><td>Crizotinib, Alectinib, Ceritinib</td></tr><tr><td>致癌突变</td><td>非小细胞肺癌</td><td>1</td><td>Brigatinib, Lorlatinib</td></tr><tr><td>融合</td><td>炎性肌纤维母细胞瘤</td><td>2A</td><td>Crizotinib, Ceritinib</td></tr><tr><td>C1156Y</td><td>非小细胞肺癌</td><td>R2</td><td>Crizotinib</td></tr><tr><td>G1202R</td><td>非小细胞肺癌</td><td>R2</td><td>Alectinib</td></tr><tr><td>G1269A</td><td>非小细胞肺癌</td><td>R2</td><td>Crizotinib</td></tr><tr><td>I1171N</td><td>非小细胞肺癌</td><td>R2</td><td>Alectinib</td></tr><tr><td>L1196M</td><td>非小细胞肺癌</td><td>R2</td><td>Crizotinib</td></tr><tr><td rowspan=\"2\">ARAF</td><td>致癌突变</td><td>组织细胞增多症</td><td>3A</td><td>Sorafenib</td></tr><tr><td>致癌突变</td><td>非小细胞肺癌</td><td>3A</td><td>Sorafenib</td></tr><tr><td>ATM</td><td>致癌突变</td><td>所有实体肿瘤</td><td>4</td><td>Olaparib</td></tr><tr><td></td><td>V600E</td><td>未分化甲状腺癌</td><td>1</td><td>Dabrafenib + Trametinib</td></tr><tr><td rowspan=\"14\">BRAF</td><td>V600</td><td>埃尔德海姆－切斯特病</td><td>1</td><td>Vemurafenib</td></tr><tr><td>V600E</td><td>黑色素瘤</td><td>1</td><td>Vemurafenib, Dabrafenib,Dabrafenib + Trametinib, Vemurafenib + Cobimetinib,</td></tr><tr><td>V600K</td><td>黑色素瘤</td><td>1</td><td>Trametinib, Encorafenib + Binimetinib Dabrafenib + Trametinib, Vemurafenib + Cobimetinib, Trametinib,Encorafenib +</td></tr><tr><td>V600E</td><td>非小细胞肺癌</td><td>1</td><td>Binimetinib Dabrafenib + Trametinib</td></tr><tr><td>D287H</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>D594</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>F595L</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>G464</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>G466</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>G469</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>G596</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>K601</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>L597</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>N581</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>S467L</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr><tr><td>V459L</td><td>所有肿瘤</td><td>4</td><td>PLX8394</td></tr></table></body></html>\n\n",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/591403c066d21c6336cef47e1af4f1b3c3d4126a7053ccc3b2829a34b1d87fb5.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"5\"></td><td>V600</td><td>结直肠癌</td><td>3A</td><td>Panitumumab + Dabrafenib + Trametinib</td></tr><tr><td>V600E</td><td>结直肠癌</td><td>3A</td><td>Encorafenib+Binimetinib+ Cetuximab</td></tr><tr><td>融合</td><td>黑色素瘤</td><td>3A</td><td>Cobimetinib, Trametinib</td></tr><tr><td>K601</td><td>黑色素瘤</td><td>3A</td><td>Trametinib</td></tr><tr><td>L597</td><td>黑色素瘤</td><td>3A</td><td>Trametinib</td></tr><tr><td rowspan=\"3\">BRCA1</td><td>融合</td><td>卵巢癌</td><td>3A Cobimetinib, Trametinib</td><td></td></tr><tr><td>致癌突变</td><td>卵巢癌</td><td>1</td><td>Rucaparib, Niraparib</td></tr><tr><td>致癌突变</td><td>乳腺癌</td><td>2A</td><td>Talazoparib, Olaparib</td></tr><tr><td rowspan=\"3\">BRCA2</td><td>致癌突变</td><td>卵巢癌</td><td>2A Olaparib</td><td></td></tr><tr><td>致癌突变</td><td>卵巢癌</td><td>1</td><td>Rucaparib, Niraparib</td></tr><tr><td>致癌突变</td><td>乳腺癌</td><td>2A</td><td>Talazoparib, Olaparib</td></tr><tr><td rowspan=\"2\"></td><td>致癌突变</td><td>卵巢癌</td><td>2A</td><td>Olaparib</td></tr><tr><td>扩增</td><td>去分化脂肪肉瘤</td><td>2A</td><td>Abemaciclib, Palbociclib</td></tr><tr><td>CDK4</td><td>扩增</td><td>高分化脂肪肉瘤</td><td>2A</td><td>Abemaciclib,Palbociclib</td></tr><tr><td>CDKN2A</td><td>致癌突变</td><td>所有实体肿瘤</td><td>4</td><td>Abemaciclib,Palbociclib,Ribociclib</td></tr><tr><td rowspan=\"20\">EGFR</td><td>A750P</td><td>非小细胞肺癌</td><td>1</td><td>Afatinib,Erlotinib,Gefitinib</td></tr><tr><td>A763_Y764insFQEA非小细胞肺癌</td><td></td><td>1</td><td>Afatinib，Erlotinib，Gefitinib</td></tr><tr><td>E709K</td><td>非小细胞肺癌</td><td>1</td><td>Erlotinib,Afatinib, Gefitinib</td></tr><tr><td>E709_T710delinsD</td><td>非小细胞肺癌</td><td>1</td><td>Erlotinib, Afatinib, Gefitinib</td></tr><tr><td>Exon19缺失</td><td>非小细胞肺癌</td><td>1</td><td>Erlotinib,Afatinib,Osimertinib,</td></tr><tr><td>Exon19插入</td><td>非小细胞肺癌</td><td>1</td><td>Dacomitinib, Gefitinib Afatinib，Erlotinib，Gefitinib</td></tr><tr><td>G719</td><td>非小细胞肺癌</td><td>1</td><td>Erlotinib,Afatinib,Gefitinib</td></tr><tr><td>激酶区域重复</td><td>非小细胞肺癌</td><td>1</td><td>Afatinib,Erlotinib,Gefitinib</td></tr><tr><td>L747P</td><td>非小细胞肺癌</td><td>1</td><td>Erlotinib,Afatinib, Gefitinib</td></tr><tr><td>L833V</td><td>非小细胞肺癌</td><td>1</td><td>Afatinib,Erlotinib,Gefitinib</td></tr><tr><td>L858R</td><td>非小细胞肺癌</td><td>1</td><td>Erlotinib,Afatinib, Osimertinib,</td></tr><tr><td>L861</td><td></td><td>1</td><td>Dacomitinib, Gefitinib</td></tr><tr><td>M277E</td><td>非小细胞肺癌 非小细胞肺癌</td><td>1</td><td>Erlotinib,Afatinib, Gefitinib Afatinib，Erlotinib，Gefitinib</td></tr><tr><td>S7681</td><td>非小细胞肺癌</td><td>1</td><td>Afatinib，Erlotinib,Gefitinib</td></tr><tr><td>T790M</td><td>非小细胞肺癌</td><td>1</td><td>Osimertinib</td></tr><tr><td>A289V</td><td>胶质瘤</td><td>4</td><td></td></tr><tr><td>扩增</td><td>胶质瘤</td><td>4</td><td>Lapatinib</td></tr><tr><td>R108K</td><td>胶质瘤</td><td>4</td><td>Lapatinib</td></tr><tr><td>T263P</td><td></td><td>4</td><td>Lapatinib</td></tr><tr><td>D761Y</td><td>胶质瘤 非小细胞肺癌</td><td>4</td><td>Lapatinib Osimertinib</td></tr><tr><td>Exon20插入</td><td>非小细胞肺癌</td><td>3A</td><td>Poziotinib</td></tr><tr><td>Exon20插入</td><td>非小细胞肺癌</td><td>R1</td><td>Erlotinib,Afatinib,Gefitinib</td></tr><tr><td>T790M</td><td></td><td></td><td>Erlotinib,Afatinib, Gefitinib</td></tr><tr><td>C797G</td><td>非小细胞肺癌 非小细胞肺癌</td><td>R1 R2</td><td>Osimertinib</td></tr><tr><td>C797S</td><td>非小细胞肺癌</td><td>R2</td><td>Osimertinib</td></tr></table></body></html>\n\n",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/fdeb99cd3aaadc18a1102006e9fd6f4241bb19ce2594dcab716d6dbf992c92b9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">D761Y</td><td>非小细胞肺癌</td><td>R2</td><td>Gefitinib</td></tr><tr><td rowspan=\"5\">ERBB2</td><td>扩增</td><td>乳腺癌</td><td>1</td><td>Lapatinib + Trastuzumab, Pertuzumab + Trastuzumab,Ado-Trastuzumab</td></tr><tr><td></td><td></td><td></td><td>Emtansine,Lapatinib,Neratinib, Trastuzumab</td></tr><tr><td>扩增 致癌突变</td><td>食管胃癌 乳腺癌</td><td>1 3A</td><td>Trastuzumab Neratinib</td></tr><tr><td>致癌突变</td><td>非小细胞肺癌</td><td>3A</td><td>Ado-Trastuzumab Emtansine, Neratinib</td></tr><tr><td>致癌突变</td><td>膀胱癌</td><td>3A</td><td>Cisplatin</td></tr><tr><td>ERCC2 ESR1</td><td>致癌突变</td><td>乳腺癌</td><td>3A</td><td>AZD9496,Fulvestrant</td></tr><tr><td>EWSR1</td><td>EWSR1-FLI1融合</td><td>尤文氏肉瘤</td><td>4</td><td>TK216</td></tr><tr><td></td><td>致癌突变</td><td>所有实体肿瘤</td><td>4</td><td>AZD4547,Erdafitinib,BGJ398,Debio1347</td></tr><tr><td rowspan=\"3\">FGFR1</td><td>扩增</td><td>肺鳞癌</td><td>3A</td><td>AZD4547,Erdafitinib,BGJ398,Debio1347</td></tr><tr><td>致癌突变</td><td>所有实体肿瘤</td><td>4</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>融合</td><td>膀胱癌</td><td>3A</td><td>AZD4547,Erdafitinib,BGJ398,Debio1347</td></tr><tr><td rowspan=\"9\"></td><td>融合</td><td>胆管癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>致癌突变</td><td>所有实体肿瘤</td><td>4</td><td>AZD4547,Erdafitinib,BGJ398,Debio1347</td></tr><tr><td>融合</td><td>膀胱癌</td><td>3A</td><td>AZD4547, Erdafitinib, BGJ398, Debio1347</td></tr><tr><td>G370C</td><td>膀胱癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>G380R</td><td>膀胱癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>K650</td><td>膀胱癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>R248C</td><td>膀胱癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>S249C</td><td>膀胱癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>S371C</td><td>膀胱癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td></td><td>Y373C</td><td>膀胱癌</td><td>3A</td><td>AZD4547,BGJ398,Erdafitinib,Debio1347</td></tr><tr><td>FLT3</td><td>内部串联重复</td><td>急性髓性白血病</td><td>3A</td><td>Sorafenib</td></tr><tr><td>HRAS</td><td>致癌突变</td><td>头颈部鳞状细胞癌</td><td>3A</td><td>Tipifarnib</td></tr><tr><td>IDH1</td><td>致癌突变</td><td>急性髓性白血病</td><td>1</td><td>Ivosidenib</td></tr><tr><td>IDH2</td><td>R140Q</td><td>急性髓性白血病</td><td>1</td><td>Enasidenib</td></tr><tr><td></td><td>R172</td><td>急性髓性白血病</td><td>1</td><td>Enasidenib</td></tr><tr><td>JAK2</td><td>PCM1-JAK2融合</td><td>慢性嗜酸细胞性白血病</td><td>3A</td><td>Ruxolitinib</td></tr><tr><td>KDM6A</td><td>致癌突变</td><td>膀胱癌</td><td>4</td><td>Tazemetostat,GSK343</td></tr><tr><td rowspan=\"11\">KIT</td><td>Exon17突变</td><td>胃肠道间质瘤</td><td>1</td><td>Regorafenib</td></tr><tr><td>致癌突变</td><td></td><td>1</td><td></td></tr><tr><td>T6701</td><td>胃肠道间质瘤</td><td></td><td>Regorafenib, Imatinib, Sunitinib</td></tr><tr><td>V654A</td><td>胃肠道间质瘤</td><td>1</td><td>Regorafenib,Sunitinib</td></tr><tr><td>Exon17突变</td><td>胃肠道间质瘤</td><td>1</td><td>Regorafenib,Sunitinib</td></tr><tr><td>D816</td><td>胃肠道间质瘤 黑色素瘤</td><td>2A 2A</td><td>Sorafenib Imatinib</td></tr><tr><td>Exon17突变</td><td>黑色素瘤</td><td>2A</td><td>Imatinib</td></tr><tr><td>致癌突变</td><td>黑色素瘤</td><td>2A</td><td>Imatinib</td></tr><tr><td>T6701</td><td></td><td></td><td></td></tr><tr><td>V654A</td><td>黑色素瘤</td><td>2A</td><td>Imatinib</td></tr><tr><td>D816</td><td>黑色素瘤 胸腺肿瘤</td><td>2A 2A</td><td>Imatinib Sunitinib, Sorafenib</td></tr></table></body></html>\n\n",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/1d9f06aabad365690430c1dfc1e3ae99a9f85566d6ab5e586b67a9f70cc374f7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/c2ab873e19bb32d6344f6d82cb983a812dfe3be050404c2fb55b7e228a642d30.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"11\"></td><td>Exon17突变</td><td>胸腺肿瘤</td><td>2A</td><td>Sunitinib, Sorafenib</td></tr><tr><td>致癌突变</td><td>胸腺肿瘤</td><td>2A</td><td>Sunitinib, Sorafenib</td></tr><tr><td>T6701</td><td></td><td>2A</td><td></td></tr><tr><td></td><td>胸腺肿瘤</td><td></td><td>Sunitinib, Sorafenib</td></tr><tr><td>V654A D816</td><td>胸腺肿瘤</td><td>2A</td><td>Sunitinib, Sorafenib</td></tr><tr><td>Exon17突变</td><td>肥大细胞增多症</td><td>3A</td><td>Avapritinib</td></tr><tr><td>T6701</td><td>胃肠道间质瘤 胃肠道间质瘤</td><td>R2 R2</td><td>Imatinib, Sunitinib Imatinib</td></tr><tr><td rowspan=\"3\">KRAS</td><td>V654A</td><td>胃肠道间质瘤</td><td>Imatinib</td><td></td></tr><tr><td>野生型</td><td>结直肠癌</td><td>R2 1</td><td>Regorafenib, Panitumumab, Cetuximab</td></tr><tr><td>致癌突变</td><td>所有肿瘤</td><td>4</td><td>Cobimetinib, Binimetinib, Trametinib</td></tr><tr><td rowspan=\"4\">MAP2K1</td><td>致癌突变</td><td>结直肠癌</td><td>R1</td><td>Panitumumab, Cetuximab</td></tr><tr><td>致癌突变</td><td>组织细胞增多症</td><td>3A</td><td>Cobimetinib, Trametinib</td></tr><tr><td>致癌突变</td><td>低分化浆液性卵巢癌</td><td>3A</td><td>Cobimetinib, Trametinib</td></tr><tr><td>致癌突变</td><td>黑色素瘤</td><td>3A</td><td>Cobimetinib, Trametinib</td></tr><tr><td>MDM2 扩增</td><td>致癌突变</td><td>非小细胞肺癌</td><td>3A</td><td>Cobimetinib, Trametinib</td></tr><tr><td></td><td></td><td>脂肪肉瘤</td><td></td><td></td></tr><tr><td rowspan=\"20\">MET</td><td></td><td></td><td>3A</td><td>DS-3032b,RG7112</td></tr><tr><td>扩增 D1010H</td><td>非小细胞肺癌</td><td>2A Crizotinib</td><td></td></tr><tr><td>D1010N</td><td>非小细胞肺癌</td><td>2A</td><td>Crizotinib</td></tr><tr><td>D1010Y</td><td>非小细胞肺癌 非小细胞肺癌</td><td>2A</td><td>Crizotinib</td></tr><tr><td>Exon14剪切区域突</td><td></td><td>2A</td><td>Crizotinib</td></tr><tr><td>变 Y1003C</td><td>非小细胞肺癌</td><td>2A</td><td>Crizotinib</td></tr><tr><td>Y1003F</td><td>非小细胞肺癌 非小细胞肺癌</td><td>2A</td><td>Crizotinib</td></tr><tr><td>Y1003N</td><td></td><td>2A</td><td>Crizotinib</td></tr><tr><td>扩增</td><td>非小细胞肺癌</td><td>2A</td><td>Crizotinib</td></tr><tr><td></td><td>肾细胞癌</td><td>2A</td><td>Cabozantinib</td></tr><tr><td>D1010H</td><td>非小细胞肺癌</td><td>3A</td><td>Cabozantinib, Capmatinib</td></tr><tr><td>D1010N D1010Y</td><td>非小细胞肺癌</td><td>3A</td><td>Cabozantinib, Capmatinib</td></tr><tr><td></td><td>非小细胞肺癌</td><td>3A</td><td>Cabozantinib, Capmatinib</td></tr><tr><td>Y1003C</td><td>Exon14剪切区域突变非小细胞肺癌</td><td>3A</td><td>Cabozantinib, Capmatinib</td></tr><tr><td>Y1003F</td><td>非小细胞肺癌</td><td>3A</td><td>Cabozantinib, Capmatinib</td></tr><tr><td>Y1003N</td><td>非小细胞肺癌</td><td>3A</td><td>Cabozantinib, Capmatinib</td></tr><tr><td>扩增</td><td>非小细胞肺癌</td><td>3A</td><td>Cabozantinib, Capmatinib</td></tr><tr><td>D1228N</td><td>非小细胞肺癌</td><td>R2</td><td>Erlotinib, Gefitinib</td></tr><tr><td>Y1230H</td><td>非小细胞肺癌</td><td>R2</td><td>Crizotinib, Cabozantinib, Capmatinib</td></tr><tr><td rowspan=\"7\">MTOR</td><td>致癌突变</td><td>非小细胞肺癌 R2</td><td>Crizotinib, Capmatinib</td></tr><tr><td>E2014K</td><td>所有实体肿瘤 4</td><td>Temsirolimus,Everolimus</td></tr><tr><td>E2419K</td><td>膀胱癌 3A</td><td>Everolimus</td></tr><tr><td>L1460P</td><td>膀胱癌 3A 肾细胞癌 3A</td><td>Everolimus Temsirolimus</td></tr><tr><td>L2209V</td><td></td><td></td></tr><tr><td>L2427Q</td><td>肾细胞癌 3A</td><td>Temsirolimus</td></tr><tr><td>Q2223K</td><td>肾细胞癌 3A 肾细胞癌 3A</td><td>Temsirolimus Everolimus</td></tr><tr><td>NF1</td><td>致癌突变</td><td>所有实体肿瘤 4</td><td>Cobimetinib, Trametinib</td></tr></table></body></html>\n\n",
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/8596c8397136b277186584f216f76fe50cc7da8df5411779eaddbe345668dd0b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"4\">NRAS</td><td>致癌突变</td><td>黑色素瘤</td><td>3A</td><td>Binimetinib, Binimetinib + Ribociclib</td></tr><tr><td></td><td></td><td></td><td>Selumetinib + Radioiodine Uptake</td></tr><tr><td>致癌突变</td><td>甲状腺癌</td><td>3A</td><td>Therapy</td></tr><tr><td>致癌突变</td><td>结直肠癌</td><td>R1</td><td>Panitumumab, Cetuximab</td></tr><tr><td rowspan=\"3\">NTRK1</td><td>融合</td><td>所有实体肿瘤</td><td>1</td><td>Larotrectinib</td></tr><tr><td>融合</td><td>所有实体肿瘤</td><td>3A</td><td>Entrectinib</td></tr><tr><td>G595R</td><td>所有实体肿瘤</td><td>R2</td><td>Larotrectinib</td></tr><tr><td rowspan=\"2\">NTRK2</td><td>融合</td><td>所有实体肿瘤</td><td>1</td><td>Larotrectinib</td></tr><tr><td>融合</td><td>所有实体肿瘤</td><td>3A</td><td>Entrectinib</td></tr><tr><td rowspan=\"3\">NTRK3</td><td>融合</td><td>所有实体肿瘤</td><td>1</td><td>Larotrectinib</td></tr><tr><td>融合</td><td>所有实体肿瘤</td><td>3A</td><td>Entrectinib</td></tr><tr><td>G623R</td><td>所有实体肿瘤</td><td>R2</td><td>Larotrectinib</td></tr><tr><td rowspan=\"5\">PDGFRA</td><td>FIP1L1-PDGFRA融合慢性嗜酸细胞性白血病</td><td></td><td>1</td><td>Imatinib</td></tr><tr><td>融合</td><td>骨髓增生异常/骨髓增生性肿瘤</td><td>1</td><td>Imatinib</td></tr><tr><td>D842V</td><td>胃肠道间质瘤</td><td>2A</td><td>Dasatinib</td></tr><tr><td>致癌突变</td><td>胃肠道间质瘤</td><td>2A</td><td>Imatinib</td></tr><tr><td>D842V</td><td>胃肠道间质瘤</td><td>R1</td><td>Imatinib</td></tr><tr><td rowspan=\"2\">PDGFRB</td><td>融合</td><td>隆突性皮肤纤维肉瘤</td><td>1</td><td>Imatinib</td></tr><tr><td>融合</td><td>骨髓增生异常/骨髓增生性肿瘤</td><td>1</td><td>Imatinib Buparlisib, Alpelisib + Fulvestrant,</td></tr><tr><td>PIK3CA PTCH1</td><td>致癌突变 截断突变</td><td>乳腺癌</td><td>3A</td><td>Serabelisib, Copanlisib, GDC-0077, Taselisib+Fulvestrant,Alpelisib, Buparlisib + Fulvestrant, Taselisib</td></tr><tr><td rowspan=\"2\">PTEN</td><td>截断突变</td><td>胚胎性癌</td><td>3A 3A</td><td>Sonidegib</td></tr><tr><td>致癌突变</td><td>非黑色素瘤的皮肤癌</td><td></td><td>Sonidegib, Vismodegib</td></tr><tr><td></td><td></td><td>所有肿瘤</td><td>4</td><td>GSK2636771,AZD8186 Cabozantinib, Vandetanib, LOxO-292,</td></tr><tr><td rowspan=\"2\">RET</td><td>融合</td><td>非小细胞肺癌</td><td>2A</td><td>BLU-667</td></tr><tr><td>致癌突变</td><td>甲状腺髓样癌</td><td>3A</td><td>LOXO-292,BLU-667</td></tr><tr><td>ROS1</td><td>融合</td><td>非小细胞肺癌</td><td>1</td><td>Crizotinib</td></tr><tr><td>SMARCB1</td><td>致癌突变</td><td>所有肿瘤</td><td>4</td><td>Tazemetostat</td></tr><tr><td>TSC1</td><td>致癌突变</td><td>中枢神经系统肿瘤</td><td>1</td><td>Everolimus</td></tr><tr><td rowspan=\"2\">TSC2</td><td>致癌突变</td><td>肾细胞癌</td><td>2A</td><td>Everolimus</td></tr><tr><td>致癌突变</td><td>中枢神经系统肿瘤</td><td>1</td><td>Everolimus</td></tr><tr><td rowspan=\"2\">其他生物标</td><td>致癌突变</td><td>肾细胞癌</td><td>2A</td><td>Everolimus</td></tr><tr><td>微卫星高度不稳定</td><td>所有实体肿瘤</td><td>1</td><td>Pembrolizumab</td></tr><tr><td>其他生物标 志物</td><td>微卫星高度不稳定</td><td>结直肠癌</td><td>1</td><td>Nivolumab</td></tr></table></body></html>\n\n",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "复旦大学附属肿瘤医院精准肿瘤中心",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "参考文献：",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "1． Zehir A, Benayed R, Shah RH, et al. Mutational landscape of metastatic cancer revealed from prospective clinical sequencing of 10,000 patients. Nat Med. 2017 Jun;23(6):703-713.   \n2． Cancer Genome Atlas Research, N., et al. (2013). The Cancer Genome Atlas Pan-Cancer analysis project. Nat Genet 45(10): 1113-1120.   \n3． Chang MT, Asthana S, Gao SP, et al. Identifying recurrent mutations in cancer reveals widespread lineage diversity and mutational specificity. Nat Biotechnol. 2016 Feb;34(2):155-63.   \n4． Consortium, I. T. P.-C. A. o. W. G. (2020). Pan-cancer analysis of whole genomes. Nature 578(7793): 82-93.   \n5． Yao Z, Torres NM, Tao A, et al. BRAF Mutants Evade ERK-Dependent Feedback by Different Mechanisms that Determine Their Sensitivity to Pharmacologic Inhibition. Cancer Cell. 2015 Sep 14;28(3):370-83.   \n6． Cancer Genome Atlas Research Network. Electronic address, a. a. d. h. e. and N. Cancer Genome Atlas Research (2017). Integrated Genomic Characterization of Pancreatic Ductal Adenocarcinoma. Cancer Cell 32(2): 185-203 e113.   \n7． De Roock W, Claes B, Bernasconi D, et al. Effects of KRAS, BRAF, NRAS, and PIK3CA mutations on the efficacy of cetuximab plus chemotherapy in chemotherapy-refractory metastatic colorectal cancer: a retrospective consortium analysis. Lancet Oncol. 2010 Aug;11(8):753-62.   \n8． Zhang, Z. Y. Protein tyrosine phosphatases: structure and function, substrate specificity, and inhibitor development. Annu Rev Pharmacol Toxicol 42: 209-234 (2002).   \n9． Li, G. M. Mechanisms and functions of DNA mismatch repair. Cell Res 18(1): 85-98 (2008). 10． Futreal, P. A., et al. A census of human cancer genes. Nat Rev Cancer 4(3): 177-183 (2004). ",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "https://objectstorageapi.cloud.sealos.top/7el7pqc7-knowledge/images/基因检测报告%20(1)/dafc98bdc4aea2848cdcd15dd2d152dd8346717054c8a0dbc91bd8e1e93f9b5e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    }
+]
